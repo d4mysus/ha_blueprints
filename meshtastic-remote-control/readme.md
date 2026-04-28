@@ -10,8 +10,7 @@ Trigger Home Assistant actions by sending text messages on a Meshtastic channel.
 
 ## Installation
 
-[![Open your Home Assistant instance and show the blueprint import dialog with this blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://raw.githubusercontent.com/d4mysus/ha_blueprints/refs/heads/main/meshtastic-remote-control/meshtastic_remote_control.yaml)
-
+[![Open your Home Assistant instance and show the blueprint import dialog with this blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https://raw.githubusercontent.com/d4mysus/ha_blueprints/refs/heads/main/meshtastic-remote-control/meshtastic_remote_control.yaml)
 Or copy `meshtastic_remote_control.yaml` to `<config>/blueprints/automation/<your_name>/` and reload blueprints.
 
 ## Configuration
